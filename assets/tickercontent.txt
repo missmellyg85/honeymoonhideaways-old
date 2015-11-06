@@ -1,0 +1,22 @@
+<!--Wrap each ticker content inside <div class="message"> tag -->
+
+<div>
+
+<div class="message">
+<a href="http://www.apps.karismahotels.com/doradoroyal/videos/casitas_royale_flash.html">Looking for something different?  Check out these Casitas! Special offers!</a><br />
+</div>
+
+<div class="message">
+"Aruba, Jamaica ooo I wanna take you
+ Bermuda, Bahama come on pretty mama
+ Key Largo, Montego baby why don't we go"
+ </a><br />
+</div>
+
+</div>
+
+<div class="message">
+Planning a destination wedding with 10 or more guests?  Contact us regarding our group discounts!
+</div>
+
+</div>

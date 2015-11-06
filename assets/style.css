@@ -1,0 +1,495 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+
+
+body {
+
+	width:990px;
+
+	margin-left:auto;
+
+	margin-right:auto;
+
+	height:auto;
+
+	overflow:auto;
+
+	background-color:#336699;
+
+	font-family:Arial, Helvetica, sans-serif;
+
+	}
+
+	
+
+a {
+
+	text-decoration:none;
+
+	border:0px;
+
+	}
+
+
+
+a:hover {
+
+	text-decoration:none;
+
+	border:0px;
+
+	}
+
+	
+
+a:visited {
+
+	text-decoration:none;
+
+	border:0px;
+
+	}
+
+	
+
+img {
+
+	border:0;
+
+	}
+
+	
+
+.container {
+
+	width:970px;
+
+	height:auto;
+
+	}
+
+	
+
+.banner {
+
+	background-image:url(images/bannerBG.jpg);
+
+	background-repeat:no-repeat;
+
+	width:970px;
+
+	height:205px;
+
+	float:left;
+
+	}
+
+	
+
+.bannerLink {
+
+	width:600px;
+
+	height:150px;
+
+	margin-top:10px;
+
+	margin-left:10px;
+
+	}
+
+	
+
+.ticker{
+
+	width:690px;
+
+	margin-top:10px;
+
+	height:30px;
+
+	float:left;
+
+}
+
+	
+
+.wrapper {
+
+	background-color:#ffcc99;
+
+	background-image:url(images/wrapperBG.jpg);
+
+	background-position:right;
+
+	background-repeat:repeat-y;
+
+	width:965px;
+
+	margin-left:5px;
+
+	height:auto;
+
+	float:left
+
+	}
+
+	
+
+.nav {
+
+	width:145px;
+
+	height:auto;
+
+    overflow:auto;
+
+	padding-top:15px;
+
+    padding-bottom:15px;
+
+	float:left;
+
+	text-align:center;
+
+	}
+
+	
+
+.nav h3 {
+
+	background-color:#99ccff;
+
+	font-size:.9em;
+
+	font-weight:bold;
+
+	}
+
+	
+
+.nav img {
+
+	margin-bottom:10px;
+
+	}
+
+	
+
+img.less {
+
+	margin-bottom:2px;
+
+	}
+
+	
+
+.main {
+
+	width:655px;
+
+	height:auto;
+
+	min-height:500px;
+
+	float:left;
+
+	padding:10px;
+
+	font-size:.8em;
+
+	}
+
+	
+
+.main h2 {
+
+	font-size:1.25em;
+
+	text-align:center;
+
+	margin-top:-5px;
+
+    padding-bottom:10px;
+
+    border-bottom: 3px dotted #000000;
+
+	}
+
+	
+
+.main h3 {
+
+	font-size:1em;
+
+	margin-top:-5px;
+
+	}
+
+	
+
+.main a {
+
+	color:#000000;
+
+	text-decoration:underline;
+
+	}
+
+	
+
+.main a:hover{
+
+	color:#6699cc;
+
+	}
+
+	
+
+.main a:visited:hover{
+
+	color:#6699cc;
+
+	}
+
+	
+
+.main a:visited {
+
+	color:#330000;
+
+	}
+
+	
+
+.center{
+
+	text-align:center;
+
+}
+
+    
+
+.quoteA {
+
+    width:550px;
+
+    padding-right:100px;
+
+    height:auto;
+
+    float:left;
+
+    }
+
+    
+
+.quoteB {
+
+    width:550px;
+
+    height:auto;
+
+    float:left;
+
+    margin-left:100px;
+
+    }
+
+    
+
+#certifications {
+
+    font-size: .9em;
+
+    }
+
+	
+
+.column {
+
+	width:215px;
+
+	float:left;
+
+	min-height:300px;
+
+	}
+
+	
+
+.column h2{
+
+	}
+
+	
+
+.rightMargin {
+
+	margin-right:5px;
+
+	}
+
+    
+
+.rightSide {
+
+	width:145px;
+
+	height:auto;
+
+    min-height:800px;
+
+	padding-top:15px;
+
+    padding-bottom:15px;
+
+	float:left;
+
+	text-align:center;
+
+    }
+
+    
+
+.rightSide h3 {
+
+	background-color:#99ccff;
+
+	font-size:.9em;
+
+	font-weight:bold;
+
+	}
+
+    
+
+.rightSide img{
+
+    margin-bottom:10px;
+
+    }
+
+    
+
+.standIn {
+
+    background-image:url(images/standIn.jpg);
+
+    width:125px;
+
+    height:75px;
+
+    margin-left:5px;
+
+    margin-bottom:10px;
+
+    padding:5px;
+
+    background-color:#feffd0;
+
+    text-align:left;
+
+    }
+
+	
+
+.footer {
+
+	background-image:url(images/footerBG.jpg);
+
+	background-position:right;
+
+	background-repeat:repeat-y;
+
+	width:965px;
+
+	margin-left:5px;
+
+	height:25px;
+
+	padding-top:5px;
+
+	font-size:.7em;
+
+	text-align:center;
+
+	clear:both;
+
+	float:left;
+
+	}
+
+    
+
+/* Ticker Styles */
+
+#ajaxticker1{
+
+    width: 125px;
+
+    height: 220px;
+
+    border: 0;
+
+    margin-left:5px;
+
+    margin-bottom:10px;
+
+    padding: 5px;
+
+    background-color: #feffd0;
+
+}
+
+
+
+#ajaxticker1 div{ /*IE6 bug fix when text is bold and fade effect (alpha filter) is enabled. Style inner DIV with same color as outer DIV*/
+
+    background-color: #feffd0;
+
+}
+
+
+
+.someclass{ //class to apply to your scroller(s) if desired
+
+}
+
+
+
+/* Form Styles */
+
+red {
+
+	font-weight:bold;
+
+	color:#F00;
+
+	font-size:18px;
+
+}
+
+
+
+redSmall {
+
+	font-weight:bold;
+
+	color:#F00;
+
+}
+
+
+
+/* image viewer */
+
+/*set CSS for SPAN tag surrounding each image*/
+
+.seqslidestyle{
+
+    margin-right: 0px;
+
+}
